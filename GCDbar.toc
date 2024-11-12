@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: GCDbar
+## Author: robs898
+## Notes: Show your global cooldown as a bar
+## Version: 1
+GCDbar.lua
